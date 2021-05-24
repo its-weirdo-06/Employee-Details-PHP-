@@ -1,0 +1,2 @@
+# Employee-Details-PHP-
+Write class declarations and member function definitions for following   employee(code, name, designation). Design derived classes as  emp_account(account_no, joining_date) from employee and  emp_sal(basic_pay, earnings, deduction) from emp_account. Write a PHP Script to create 5 objects (pass details using parameterized constructor)    and Display details of Employees who having Maximum and Minimum Salary.
